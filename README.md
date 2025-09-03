@@ -32,11 +32,11 @@ Moreover, the project aims to:
 To set up this project locally:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TuringCollegeSubmissions/jwerne-DS.v2.5.3.1.5.git
+   git clone https://github.com/razzf/insurance-data-machine-learning
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd jwerne-DS.v2.5.3.1.5
+   cd insurance-data-machine-learning
    ```
 3. **Install required packages**:
    Ensure Python is installed and use the following command:
